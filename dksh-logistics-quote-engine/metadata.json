@@ -1,0 +1,4 @@
+{
+  "name": "DKSH Logistics Quote Engine",
+  "description": "A specialized logistics quotation tool for DKSH CN PM, capable of calculating transportation costs across multiple carriers (Kerry, Lianqiang, etc.) based on complex business logic, cargo types, and specific fee structures."
+}
